@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The orders and directions, of the right honourable the Lord Mayor and Court of Aldermen, to be diligently observed and kept by the citizens of London, during the time of the present visitation of the plague As also, rules and instructions, to all brewers, butchers, fish-mongers, victualling-houses, hackney-coaches, brokers, and the rest of the inhabitants, both in city and suburbs. With divers excellent receipts, as well for the cure of the plague, as for preventing the further increase and infection thereof, by Gods blessing and assistance: set forth and approved of by the learned Sir Walter Rawleigh, Mr. Culpepper, and divers other famous physicians and doctors; and now published for the use and benefit of all his Majesties liege subjects.</title>
+            <author>City of London (England). Court of Aldermen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88464</idno>
+            <idno type="STC">Wing L2864I</idno>
+            <idno type="STC">ESTC R232156</idno>
+            <idno type="EEBO-CITATION">99897834</idno>
+            <idno type="PROQUEST">99897834</idno>
+            <idno type="VID">170971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2534:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The orders and directions, of the right honourable the Lord Mayor and Court of Aldermen, to be diligently observed and kept by the citizens of London, during the time of the present visitation of the plague As also, rules and instructions, to all brewers, butchers, fish-mongers, victualling-houses, hackney-coaches, brokers, and the rest of the inhabitants, both in city and suburbs. With divers excellent receipts, as well for the cure of the plague, as for preventing the further increase and infection thereof, by Gods blessing and assistance: set forth and approved of by the learned Sir Walter Rawleigh, Mr. Culpepper, and divers other famous physicians and doctors; and now published for the use and benefit of all his Majesties liege subjects.</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton, living near the Three Crowns in Barbican,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  History --  England --  Early works to 1800.</term>
+               <term>Medical laws and legislation --  England --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170971:1"/>
+            <pb facs="tcp:170971:1" rendition="simple:additions"/>
+            <p>THE ORDERS <hi>AND</hi> Directions, Of the <hi>Right Honourable</hi> the <hi>Lord Mayor</hi> and <hi>Court of Aldermen,</hi> to be diligently obſerved and kept by the Citizens of <hi>London,</hi> during the time of the preſent Viſitation of the <hi>PLAGUE.</hi>
+            </p>
+            <p>As alſo, <hi>Rules</hi> and <hi>Inſtructions,</hi> to all <hi>Brewers, Butchers, Fiſh<g ref="char:EOLhyphen"/>mongers, Victualling-houſes, Hackney-Coaches, Brokers,</hi> and the reſt of the <hi>Inhabitants,</hi> both in <hi>City</hi> and <hi>Suburbi.</hi>
+            </p>
+            <p>With divers excellent <hi>Receipts,</hi> as well for the <hi>Cure</hi> of the <hi>Plague,</hi> as for preventing the further Increaſe and Infection thereof, <hi>by Gods bleſſing and Aſſiſtance:</hi> Set forth and appro<g ref="char:EOLhyphen"/>ved of by the Learned Sir <hi>Walter Rawleigh,</hi> Mr. <hi>Culpepper,</hi> and divers other famous <hi>Phyſicians</hi> and <hi>Doctors;</hi>
+            </p>
+            <p>
+               <hi>And now publiſhed for the uſe and benefit of all His Majeſties Liege Subjects.</hi>
+            </p>
+            <p>Printed for <hi>George Horton,</hi> living near the Three Crowns in <hi>Barbican.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170971:2"/>
+            <pb n="1" facs="tcp:170971:2"/>
+            <head>Health better then Gold: <hi>Or,</hi> Rules and Directions, as well for the Cure of the <hi>Plague,</hi> as for preventing the Infection, &amp;c.</head>
+            <p>VVHereas it hath pleaſed <hi>Almighty God</hi> to ſend forth his deſtroying <hi>Angel</hi> amongſt Us, to ſcourge and chaſtiſe a ſtiff-necked and perverſe Generation of People, by ſpreading the <hi>Black-Cloud</hi> of <hi>Plague</hi> and <hi>Peſtilence,</hi> over many famous Nations &amp; Cities beyond the Seas; but hath alſo out of his <hi>Divine Juſtice,</hi> even now brought it to the very <hi>Doors</hi> of many who have ſleighted his gra<g ref="char:EOLhyphen"/>cious <hi>Tenders</hi> and <hi>Mercies;</hi> and indeed who can ſay, <hi>I am free from ſuch provocations, from provoking a juſt and righteous God, and from crucifying afreſh a precious, dear and bleſsed Saviour, by their wick<g ref="char:EOLhyphen"/>ed and abominable Oaths, by their ſad and lamentable Imprecations, by their vitious Vices of Whoredom, Drunkenneſs, Sabbath-breaking,</hi> &amp;c. O let every one therefo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſeriouſly lay it to heart, the great and original cauſe of theſe our preſent Judgments, and by ſerious Repen<g ref="char:EOLhyphen"/>tance, and cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition of ſpirit, endeavour to cure the ſinful <hi>Plague of the Heart, to amend their Lives, to become new Creatures, to bear a high eſteem of the Bleſsed Sabbath, and an ardent affection to his gra<g ref="char:EOLhyphen"/>cious Ordinances;</hi> That the Lord may ſay unto <hi>London,</hi> as he did un<g ref="char:EOLhyphen"/>to <hi>Iſrael, Return thou back-ſliding People, and I will not cauſe mine anger to fall upon you; for I am me ciful,</hi> ſaith the Lord, <hi>and I will not keep anger for ever.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g acious ſaying, and worthy of accepta<g ref="char:EOLhyphen"/>tion. But now for the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick benefit of all people, in theſe Times of Calamity, I ſhall not onely recite ſome Orders of the Right Ho<g ref="char:EOLhyphen"/>nourable the <hi>Lord Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or,</hi> and <hi>Court of Aldermen,</hi> for preſerving of <hi>Health;</hi> but alſo divers Receits and Directions as well for the cure of the <hi>Plague,</hi> as for preventing the Infection of it &amp;c. And firſt it is thought requiſite that in every Pariſh there be one, two, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more perſons of good ſort and credit, choſen and appointed by the Alder<g ref="char:EOLhyphen"/>man,
+<pb n="2" facs="tcp:170971:3" rendition="simple:additions"/> his Deputy, and Common-council of every Ward by the name of Examiners to continue in that Office the ſpace of two Moneths at leaſt: and if any perſon ſo appointed ſhall refu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to undertake the ſame, the ſaid parties ſo refuſing, to be committed to Priſon until they ſhall conform themſelves accordingly. That theſe Examiners be ſworn by the <hi>Alderman,</hi> to enqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e what houſes be viſited, what per<g ref="char:EOLhyphen"/>ſons ſick, and of what <hi>Diſeaſes,</hi> as near as they can and upon d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubt, to command reſtraint of acceſs, until it appear what the <hi>Diſeaſe</hi> ſhall prove: and if they find any perſon ſick of the Infection, to give or<g ref="char:EOLhyphen"/>der to the Conſtable that the houſe be ſhut up; and if the Conſtable ſhall be found remiſs or negligent, to give preſent notice thereof to the <hi>Alderman</hi> of the Ward. That to every infected houſe there be appointed two Watch-men, one for the day, and the other for the night. That for the Women-ſearchers in every Pariſh, to be of ho<g ref="char:EOLhyphen"/>neſt reputation and ſworn to make due ſearch and true report: and tkat the Phyſitians appointed for the cure and prevention of the In<g ref="char:EOLhyphen"/>fection, do call before them the ſaid <hi>Searchers,</hi> who are or ſhall be appointed for the ſeveral Pariſhes under their reſpective cares, to the end they may conſider whether they are fitly qualified for that em<g ref="char:EOLhyphen"/>ployment: and that no <hi>Searcher,</hi> during this time of Viſitation, be permitted to uſe any publick work or imployment, or keep any ſhop or ſtall, or be imployed as a Landreſs, or in any other common em<g ref="char:EOLhyphen"/>ployment whatſoever. <hi>And for better aſſiſtance of the Searchers, it is ordered, that there be choſen able and diſcreet Chirurgions, to be reſi<g ref="char:EOLhyphen"/>dent in moſt convenient places, and to be ſequeſtred from all other cures, and kept onely to this Diſeaſe of the Infection, and every Chirurgion to haue twelve pence a Body ſearched by them, to be paid out of the goods of the party ſearched, if he be able, or otherwiſe by the Pariſh.</hi> And if any <hi>Nurſe-keeper</hi> ſhall remove her ſelf out of any infected houſe be<g ref="char:EOLhyphen"/>fore 28 days after the deceaſe of any perſon dying of the Infection, the houſe to which the ſaid <hi>Nurſe-keeper</hi> doth ſo remove, her ſelf ſhall be ſhut up until the ſaid 28 days be expired. Likewiſe, that the burial of the dead by this Viſitation be at moſt convenient hours, al<g ref="char:EOLhyphen"/>ways before either Sun-riſing or after Sun-ſetting, with the privity of the Churchwardens or Conſtables, and not othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wiſe; and that no Neighbours nor Friends be ſuffered to accompany the Coarſe to Church, or to enter the houſe viſited, upon pain of having his houſe ſhut up, or be impriſoned. And further, all publick <hi>Aſsemblies</hi> at o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:170971:3" rendition="simple:additions"/> 
+               <hi>Burials</hi> are to be forborn during the continuance of this Viſita<g ref="char:EOLhyphen"/>tion. And to the end no infected <hi>Stuff</hi> ſhall be uttered, it is ordered, That no Clothes, Stuff, Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding, or Garments be ſuffered to be carry<g ref="char:EOLhyphen"/>ed or conveyed out of any infected houſes, and that the Cryers and Carryers ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oad of <hi>Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding</hi> or old <hi>Apparel</hi> to be ſold or pawned, be utterly prohibited and reſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned, and no <hi>Brokers</hi> of <hi>Bedding</hi> or Old <hi>Apparel</hi> be permitted to make any outward ſhew, or hang forth on their Stalls, ſhopboards or Windows toward any <hi>Street, Lane, Com<g ref="char:EOLhyphen"/>mon-way,</hi> or <hi>Paſsage,</hi> any old <hi>Bedding</hi> or <hi>Apparel</hi> to be ſold, upon pain of impriſonment: and if any <hi>Broker</hi> or other perſon ſhall buy any <hi>Bedding, Apparel,</hi> or other ſtuff out of any infected houſe, within two mone<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns after the Infection hath been there, his houſe ſhall be ſhut up as infected, and ſo ſhall continue ſhut up 20 days at leaſt.</p>
+            <p>It is alſo ordered, that care be taken of <hi>Hackney-Coachmen,</hi> that they may not (as ſome of them have been obſerved to do) after car<g ref="char:EOLhyphen"/>rying of infected perſons to the <hi>Peſt-houſe,</hi> and other places, be ad<g ref="char:EOLhyphen"/>mitted to common uſe, till their Coaches be well aired, and have ſtood unimpiſtyed by the ſpace of 5 or 6 days after ſuch ſervice. <hi>Ordered,</hi> That every <hi>Houſholder</hi> do cauſe the <hi>Street</hi> to be daily pared before his door, and ſo to keep it clean ſwept all the Week long. And that the ſweeping and filth of houſes be daily carryed away by the <hi>Rakers,</hi> and that the <hi>Raker</hi> ſhall give notice of his coming by the blowing of a <hi>Horn,</hi> as heretofore hath been done. Likewiſe, that the Layſtals be removed as far as may be out of the City, and common paſſages, and that no Nightman or other be ſuffered to empty a Vault into any Garden near about the City. That ſpecial care be taken, that no ſtin<g ref="char:EOLhyphen"/>king Fiſh, or unwholeſom Fleſh, or muſty Corn, or other corrupt Fruits of what ſort ſoever, be ſuffered to be ſold about the City, or n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y part of the ſame. That the <hi>Brewers</hi> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipling-houſes</hi> be look<g ref="char:EOLhyphen"/>ed unto, for muſty and unwholſome Cask. That no <hi>Hogs, Dogs,</hi> or <hi>Cats,</hi> or tame <hi>Pigeons,</hi> or <hi>Conies,</hi> be ſuffered to be kept within any part of the City, and that the <hi>Dogs</hi> be <hi>killed</hi> by the <hi>Dog-killers</hi> appointed for that purpoſe. That all publick Feaſting, and particularly by the Companies of this City; and <hi>Dinners</hi> at <hi>Taverns, Alehouſes,</hi> &amp; other places of common entertainment be forborn untill further order and allowance; and that the money thereby ſpared, be preſerved and im<g ref="char:EOLhyphen"/>ployed for the benefit and relief of the poor viſited with the Infecti<g ref="char:EOLhyphen"/>on. That every houſe viſited be marked with a <hi>Red-Croſs</hi> of a foot long in the middle of the door, and with the uſual printed words, <q>Lord have Mercy upon Us.</q>
+            </p>
+            <div type="part">
+               <pb n="4" facs="tcp:170971:4" rendition="simple:additions"/>
+               <head>Directions for the Searchers.</head>
+               <p n="1">1. They are to take notice whether there be any ſwellings, riſings, or botch under the ear, about the neck, on either ſide, or under the arm-pits of either ſide, or the groins, and of its hardneſs, and whether broken or unbroken.</p>
+               <p n="2">2. Whether there be any blains which may riſe in any part of the body in the form of a bliſter, much bigger then the <hi>Small Pox,</hi> of a ſtraw-colour or livid colour, which latter is the worſer; either of them hath a reddiſh Circuit, ſomething ſwollen round about it, which Circuit remains after the bliſter is broken, encompaſſing the Sore.</p>
+               <p n="3">3. Whether there be any Carbuncle, which is ſomething like the blain, but more fiery and corroſive, eaſily eating deep into the fleſh, and ſometimes having a black cruſt upon it, but always compaſſed about with a very fiery red (or livid) flat and hard tumour, about a finger-breadth more or leſs: this and the blain may appear in any part of the body.</p>
+               <p n="4">4. Whether there be any tokens, which are ſpots ariſing about the skin, chiefly about the breaſt and back, but ſometimes alſo in other parts; their colour is ſomething various, ſometimes more reddiſh, ſometimes inclining a little toward a fai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t blue, and ſometimes brow<g ref="char:EOLhyphen"/>niſh mixt with blue; the red ones have often a purple-circle about them, the browniſh, a reddiſh.</p>
+            </div>
+            <div type="part">
+               <head>Perfumes againſt the <hi>Plague.</hi>
+               </head>
+               <p>Such as are to go abroad, ſhall do well to carry rue, anglica, Maſterwort, myrrhe, ſcordiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or water-germander, wormwood, valetian, or ſetwall-root, Virginian-ſnake root, or Zedoarie in their hands to ſmell to; and of thoſe they may hold or ſhew a little in their mouths as they go in the ſtreets; they may anoint their noſtrils with oyl of Amber, or balſam of ſulphur; eſpecially if they be afraid of any place: Fear, as well as preſumption, being hurtful.</p>
+               <p>Take rue one handful, ſtamp it in a morter, put thereto Vineger enough to moiſten it, mix them well, then ſtrain out the juce, wet a piece of ſpunge, or a toaſt of hrown bread therein, tye it in a thin cloath, bear it about to ſmell to.</p>
+               <p>Take the root of angelica beaten groſly, the weight of ſix pence, of rue and wormwood, of each the weight of four pence, ſetwall the w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of three pence b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe theſe, then ſteep them in a l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle Wine Vineger, tye them in a l nnen cloath, which they may carry</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170971:4"/>
+               <head>Inward Medicines againſt the <hi>Plague.</hi>
+               </head>
+               <p>Let none go faſting forth, every one according as they can procure, let them take ſome ſuch thing as may reſiſt putrefaction.</p>
+               <p>Some may take Garlick with Butter, a Clove two or three, accor<g ref="char:EOLhyphen"/>ding as it ſhall agree with their bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies: And for Women with child, children and ſuch as cannot take bitter things, uſe this. <hi>Take Conſerve of Red-Roſes, Conſerve of Wood-ſorrel, of each</hi> 2 <hi>ounces, Conſerves of Borage of Sage-flowers, of each</hi> 6 <hi>drams, Bole-Armoniack, ſhaving of Harts-horn, Sorrel ſeeds of each two drams, yellow or white Sanders half a dram Saffron one ſcruple, Syrup of Wood-ſorrel, enough to make it a moſt Electuary; mix them well, take ſo much as a Cheſnut at a time, once or twice a day, as you ſhall find cauſe.</hi> It will be good to for<g ref="char:EOLhyphen"/>bear all crude and moiſt Fruits; as <hi>Cucumbers, Melons, Plumbs, Cher<g ref="char:EOLhyphen"/>ries, Peaches, and raw Hearbs and Salla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, as Lettice, Spinage, Ra<g ref="char:EOLhyphen"/>diſh, and ſuch like, or to be moderate in the uſe of them, mixt with Oyl and Vinegar.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Remedy ſent to the Lord Mayor of <hi>London,</hi> by King <hi>Henry</hi> the Eighth, againſt the <hi>Plague.</hi>
+               </head>
+               <p>Take a handful of Sage, a handful of Herb-grace, a handful of Elder-leaves, a handful of Red-bramble leaves, ſtamp them all, and ſtrain them through a fine cloth, with a quart of White-wine, and then take a quantity of Ginger, and mingle them together, and take a ſpoonful of the ſame, and you ſhall be ſafe for twenty four dayes; Nine times taking of it, is ſufficient for a whole Year by the Grace of <hi>God.</hi> And if it be ſo, that the Party be ſtricken with the Plague, before he hath drank this Medicine; then take the Water of Scabios a ſpoonful, of Water of Bettony a ſpoonful, and a quanaity of fine Treacle; and put them all together, and cauſe him to drink it, and it will expel all the Venome. If the botch appear, then take the Leaves of Brambles, Elder Leaves, Muſtard ſeed, and ſtamp them together, and make a Plaiſter thereof, and lay it to the Sore, and that ſhall draw out the Venome, and the party ſhall be whole, by the Grace of God.</p>
+            </div>
+            <div type="part">
+               <head>A Medicine, that was taught King <hi>Henry</hi> the Seventh, by his Phy<g ref="char:EOLhyphen"/>ſitian, againſt the <hi>PESTILENCE.</hi>
+               </head>
+               <p>Take of Rue, Maudragories, Featherfew, Sorrel, Barnet, of each half a handful; of crops and roots of Dragons a like quantity; waſh them clean, and ſeeth them, with a ſoft fire, in running Water, from a
+<pb n="6" facs="tcp:170971:5"/> bottle to a quart; and then ſtrain them together, through a clean cloath; and if it be bitter, put thereto a quantity of Sugar-Candy, or Sugar: And if this Medicine be uſed before the Purples do ariſe, you ſhall be whole by <hi>Gods</hi> Grace.</p>
+            </div>
+            <div type="part">
+               <head>Sir <hi>Walter Rawleigh's</hi> Receipt againſt the Plague.</head>
+               <p>Yake three pints of Malmſey (or Canary-Sack) and boyl in it one handfull of Sage, and as much of Rue, till one pint be waſted away; then ſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it, and ſet it over the fire againe, and put thereto one dram of long Pepper, half an ounce of Ginger, and a quarter of an ounce of Nutmegs, all well beaten together; then let it boyl a little, and put thereto one dram &amp; a half of Mithridate, one dram of Venice-Treacle, and a quarter of a pint of Aqua-Vita, or hot Angelica-water.</p>
+               <p>Keep this as your life, above all worldly treaſure: take it alwayes morning and evening three ſpoonfuls at each time, if the party be diſeaſed: if not, every morning is ſufficient.</p>
+               <p>In all the <hi>Plague</hi>-time truſt to this; for certainly (<hi>God</hi> be praiſed for it) there was never man, woman nor child whom this drink de<g ref="char:EOLhyphen"/>ceived, if the heart were not poyſoned and downed with the diſeaſe before.</p>
+            </div>
+            <div type="part">
+               <head>An approved Remedy againſt the Peſtilence be it never ſo vehement.</head>
+               <p>
+                  <hi>Take</hi> an Ounion and cut him overthwart, then make a little hole in each peece, the which you ſhall fill with fine Treacle, then ſet the peices together againe as they were before, then wrap them in a white linnen cloth. Puting it ſo to Roaſt in the Embers and Aſhes, then when it is Roaſted enough preſs out all the juce of it: and give the patient a ſpoonful thereof to drink, and ſo by <hi>Gods</hi> help he ſhall feel eaſe and moſt undoubtedly be healed.</p>
+            </div>
+            <div type="part">
+               <head>For him that is ſick of the <hi>Plague.</hi>
+               </head>
+               <p>
+                  <hi>Take</hi> white Dittany, Turmentil, white Coral, Genitine, Bole Ar<g ref="char:EOLhyphen"/>monick, Teria ſigilata, and Endive, water of Scabius; and the Accedent coming upon him, this muſt be made at leaſt four hours be<g ref="char:EOLhyphen"/>fore it be uſed, take of the ſaid things ſtamped each one by it ſelf, and put them ſeverally in glaſſes, and make of all of them a drink at your own diſcretion, making the Vineger mount in the glaſs a little above the other things, and let the patient take it hot, covering himſelf <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in his bed until he ſweat, and by <hi>Gods</hi> help he ſhall undoubtedly be Cured.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170971:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
